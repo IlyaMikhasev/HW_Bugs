@@ -1,0 +1,50 @@
+body{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+} 
+#label{
+    margin: 5px;
+
+    font-size: 22px;
+}
+#desctop{
+    width: 450px;
+    height: 300px;
+    margin:25px;
+
+    border: 2px solid black;
+    border-radius: 2px;
+
+    position: relative;
+}
+img{
+    position: absolute;
+
+    cursor: pointer;
+}
+.difficulty{
+    width: 450px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    width: 150px;
+    margin:  5px;
+
+    font-size: 22px;
+
+    border-radius: 7px;
+    border: 2px solid black;
+
+    cursor: pointer;
+}
+/* .desctop:hover{
+     cursor: url('gazeta.cur'), auto; не работает, хотя в описание делать надо так 
+} */
