@@ -9,6 +9,7 @@
 ![нормал](https://github.com/IlyaMikhasev/HW_Bugs/assets/113455026/d37bef8f-888d-43a0-ac65-2fb7f1473e31)
 
 А так же сложный , жуки еще меньше и быстрее!
+
 ![Сложный](https://github.com/IlyaMikhasev/HW_Bugs/assets/113455026/0c7a2d26-a5ab-48b5-80d7-a35028c88acb)
 
 Игра заканчиваеться, когда собрали всех жуков!Но это еще не конец всегда можно начть заново!
