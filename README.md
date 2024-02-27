@@ -1,4 +1,4 @@
-Игра «Catch the Bugs»
+# Игра «Catch the Bugs»
 Правила просты, лови жука!
 Присутствует три уровня сложности:easy, normal, hard;
 
